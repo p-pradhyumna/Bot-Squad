@@ -1,0 +1,2 @@
+# Bot-Squad
+AI Hackathon
